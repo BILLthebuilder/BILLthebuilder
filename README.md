@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Deployer](https://github.com/opensource254/deployer)
 
-- 👨‍💻 All of my projects are available at [here](billkariri.com)
+- 👨‍💻 View my portfolio [here](https://billkariri.com)
 
 - 💬 Ask me about **Angular,Nodejs,Spring**
 

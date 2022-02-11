@@ -9,7 +9,7 @@
 
 - 👨‍💻 View my portfolio [here](https://billkariri.com)
 
-- 💬 Ask me about **Angular,Nodejs,Spring**
+- 💬 Ask me about **Angular,ReactJs, Nodejs,Spring**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bkariri](https://www.linkedin.com/in/bkariri)
 

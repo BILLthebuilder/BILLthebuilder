@@ -11,6 +11,6 @@
 
 - 💬 Ask me about **Angular,ReactJs, Nodejs,Spring**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bkariri](https://www.linkedin.com/in/bkariri)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/billkariri)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=billthebuilder&show_icons=true&locale=en" alt="billthebuilder" /></p>
